@@ -8,6 +8,9 @@ The provided IOCs are sourced from internal Valtix honeypots and through aggrega
 ### Valtix Log4Shell Observations Blog Post:
 * https://valtix.com/blog/log4shell-observations/
 
+<img width="687" alt="log4G_ift_meme" src="https://user-images.githubusercontent.com/96460888/147148710-9451a45b-c63f-41ad-95f2-54316fb5ece0.png">
+
+
 Primary OSINT sources:
 - https://github.com/curated-intel/Log4Shell-IOCs
 - https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
