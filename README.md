@@ -5,8 +5,14 @@ The Valtix security research team wanted to enrich and disseminate Log4j IOCs fo
 
 The provided IOCs are sourced from internal Valtix honeypots and through aggregating open-source feeds created by others in the community.
 
-### Valtix Log4Shell Observations Blog Post:
+### Valtix Log4Shell Observations Blog Post (1):
 * https://valtix.com/blog/log4shell-observations/
+
+### Valtix Log4Shell Observations Blog Post (2):
+* https://valtix.com/blog/log4shell-observations-two/
+
+### Valtix Log4Shell Demo: Attack, Detection & Mitigation:
+* https://valtix.com/blog/virtual-patch-log4j/
 
 <img width="425" alt="log4gift_meme" src="https://user-images.githubusercontent.com/96460888/147150667-7d51301e-eaaa-4333-954d-ffda4cda48f4.png">
 
